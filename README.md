@@ -1,7 +1,7 @@
 #  Hi, I'm Zuha Sofi  
 
 🎓 Master of Data Science, RMIT University (2025)  
-💡 Passionate about Data Analytics, Machine Learning, and Cloud Solutions  
+💡 Passionate about AI, Machine Learning, and Cloud Solutions  
 📍 Based in Melbourne, Australia  
 
 ## Skills  
